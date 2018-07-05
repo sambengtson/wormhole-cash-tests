@@ -1,6 +1,6 @@
 {
   "name": "bitbox-scaffold-node",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Basic command line node app w/ BITBOX bindings",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigearth/bitbox-scaffold-node.git"
+    "url": "git+https://github.com/Bitcoin-com/bitbox-scaffold-node.git"
   },
   "author": "Bitcoin.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bigearth/bitbox-scaffold-node/issues"
+    "url": "https://github.com/Bitcoin-com/bitbox-scaffold-node/issues"
   },
-  "homepage": "https://github.com/bigearth/bitbox-scaffold-node#readme",
+  "homepage": "https://github.com/Bitcoin-com/bitbox-scaffold-node#readme",
   "devDependencies": {
-    "bitbox-cli": "1.1.2"
+    "bitbox-cli": "1.2.0"
   }
 }
