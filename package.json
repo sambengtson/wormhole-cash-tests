@@ -1,7 +1,7 @@
 {
-  "name": "bitbox-scaffold-node",
-  "version": "1.5.1",
-  "description": "Basic command line node app w/ BITBOX bindings",
+  "name": "wormhole-scaffold-node",
+  "version": "0.2.0",
+  "description": "Basic command line node app w/ Wormhole SDK bindings",
   "author": "Gabriel Cardona @ Bitcoin.com",
   "license": "MIT",
   "main": "index.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bitcoin-com/bitbox-scaffold-node.git"
+    "url": "git+https://github.com/Bitcoin-com/wormhole-scaffold-node.git"
   },
   "bugs": {
-    "url": "https://github.com/Bitcoin-com/bitbox-scaffold-node/issues"
+    "url": "https://github.com/Bitcoin-com/wormhole-scaffold-node/issues"
   },
-  "homepage": "https://github.com/Bitcoin-com/bitbox-scaffold-node#readme",
+  "homepage": "https://github.com/Bitcoin-wormhole/bitbox-scaffold-node#readme",
   "devDependencies": {
-    "bitbox-cli": "1.5.1"
+    "wormholecash": "0.2.0"
   }
 }
