@@ -1,2 +1,2 @@
-let Wormhole = require('wormholecash/lib/wormhole').default;
+let Wormhole = require('wormholecash/lib/Wormhole').default;
 let wormhole = new Wormhole();
