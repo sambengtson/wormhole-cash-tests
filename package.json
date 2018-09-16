@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Bitcoin-wormhole/bitbox-scaffold-node#readme",
   "devDependencies": {
-    "wormholecash": "0.5.4"
+    "wormholecash": "^0.5.4"
+  },
+  "dependencies": {
+    "bitbox-cli": "^1.6.5"
   }
 }
